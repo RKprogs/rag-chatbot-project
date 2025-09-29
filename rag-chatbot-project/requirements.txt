@@ -1,0 +1,10 @@
+langchain>=0.0.170
+transformers
+sentence-transformers
+faiss-cpu
+chromadb
+pypdf
+tiktoken
+gradio
+requests
+pytest
